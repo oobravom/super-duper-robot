@@ -7,7 +7,6 @@ public class Necaxa extends America implements FairPlay, Honestidad, Humildad {
 
     @Override
     @Deprecated
-
     public void comprarPartido() {}
     @Override
     @Deprecated
